@@ -1,6 +1,5 @@
 ### README.md
 
-```markdown
 # MT5 Docker Setup
 
 Runs 30 MetaTrader 5 (MT5) instances in Docker containers with Wine on a Linux server (e.g., Oracle Cloud). Keeps it simple for your trading setup.
